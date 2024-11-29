@@ -1,5 +1,3 @@
 Проект Бориса
 test1
 main
-main1
-test1
